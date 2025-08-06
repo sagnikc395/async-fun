@@ -1,3 +1,5 @@
+## Moved to codeberg : https://codeberg.org/sagnikcw/async-fun
+
 ## asyncio-fun
 
 Fun example scripts / notes to explore the asyncio module.
